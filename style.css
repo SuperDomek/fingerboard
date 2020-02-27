@@ -1,0 +1,47 @@
+/* CSS Document */
+
+body {
+  background-color: white;
+  margin: 0px auto;
+  position: relative;
+  width: 99%;
+  min-width: 800px;
+}
+
+#box_tlacitka {
+  position: relative;
+  /*left: 5%;*/
+  padding-top: 5%;
+  text-align: center;
+  vertical-align: middle;
+  float: none;
+}
+
+#tlacitko {
+  padding: 1%;
+  position: relative;
+  float: left;
+  width: 22%;
+  min-width: 200px;
+}
+
+#tlacitko img {
+  width: 99%;  
+}
+
+#tlacitko p {
+  font-family: Verdana, Arial CE;
+  font-variant: small-caps;
+  font-weight: bold;
+  font-size: 150%;
+}
+#paticka {
+  position: relative;
+  clear: both;
+  text-align: center;
+}
+
+#paticka img{
+  padding: 1%;
+  height: 70px;
+}
